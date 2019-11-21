@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:23:20 PM On 8/30/2017
+
+Output: Assembly PCB 3D STEP
+Type  : ExportSTEP
+From  : Variant [CBS Production PCB] of PCB Document [CBS2100EE.PcbDoc]
+   Generated File[CBS2100EE.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:23:55 PM On 8/30/2017

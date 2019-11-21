@@ -1,0 +1,164 @@
+*************************************************************
+FileName = [1051.00041.00_3-A.3] CBS2100EE.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : [1051.00041.00_3-A.3] CBS2100EE.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Legend
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : [1051.00041.00_3-A.3] CBS2100EE.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Legend
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : [1051.00041.00_3-A.3] CBS2100EE.GM1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Board Dimension
+      File : [1051.00041.00_3-A.3] CBS2100EE.GM2
+
+    Adding Layer      : Board Dimension
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Stencil Frame
+      File : [1051.00041.00_3-A.3] CBS2100EE.GM18
+
+    Adding Layer      : Stencil Frame
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Stencil Guide
+      File : [1051.00041.00_3-A.3] CBS2100EE.GM19
+
+    Adding Layer      : Stencil Guide
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Stencil Fabrication Notes
+      File : [1051.00041.00_3-A.3] CBS2100EE.GM20
+
+    Adding Layer      : Stencil Fabrication Notes
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D30
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Template Scheet A1
+      File : [1051.00041.00_3-A.3] CBS2100EE.GM31
+
+    Adding Layer      : Template Scheet A1
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D30
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Template Scheet
+      File : [1051.00041.00_3-A.3] CBS2100EE.GM32
+
+    Adding Layer      : Template Scheet
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D30
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+

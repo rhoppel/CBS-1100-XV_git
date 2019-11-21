@@ -1,0 +1,16 @@
+*.text
+*.text.html
+*.html
+
+*.7z
+*.zip
+
+sync.ffs_db
+
+/Archive/*
+/Released/Archive/*
+/Released/DisplayAssembly/Archive/*
+/Released/PCB/Archive/*
+
+/Design/*
+/Design_20170818/*

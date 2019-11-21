@@ -1,0 +1,10 @@
+Output: Footprint Comparison Report
+Type  : FootprintComparison
+From  : PCB Document [CBS2100EE.PcbDoc]
+   Generated File[Footprint Comparison Report.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:17:59 AM On 8/29/2017

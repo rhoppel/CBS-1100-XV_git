@@ -1,0 +1,192 @@
+*************************************************************
+FileName = CBS2100EE.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\matrix\matrix
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\profile
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\stephdr
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_solder\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\drill\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\drill\tools
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\board_outline\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\board_dimension\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\board_dimension\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\non_plated_routes\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\non_plated_routes\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\non_plated_routes_guide\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\non_plated_routes_guide\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\legend\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\legend\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\pcb_fabrication_notes\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\pcb_fabrication_notes\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\external_mcad\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\external_mcad\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\panel_details\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\panel_details\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\panel_guide\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\panel_guide\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_peelable_mask\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\top_peelable_mask\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_peelable_mask\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\bottom_peelable_mask\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\assemblypcb_notes\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\assemblypcb_notes\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_bodies_top\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_bodies_top\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_bodies_bottom\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_bodies_bottom\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_courtyards_top\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_courtyards_top\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_courtyards_bottom\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\component_courtyards_bottom\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\3d_housing_body\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\3d_housing_body\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_frame\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_frame\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_guide\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_guide\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_fabrication_notes\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_fabrication_notes\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\pcb_drawing_name\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\pcb_drawing_name\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\assemblypcb_drawing_name\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\assemblypcb_drawing_name\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_drawing_name\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\stencil_drawing_name\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\assemblypcb_parts_locations\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\assemblypcb_parts_locations\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_25\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_25\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_26\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_26\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_27\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_27\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_28\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\mechanical_28\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\max_panel_dim\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\max_panel_dim\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\template_scheet_mirror\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\template_scheet_mirror\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\template_scheet_a1\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\template_scheet_a1\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\template_scheet\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\template_scheet\attrlist
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : E:\OneDrive - Food Equipment Technologies Company\CONTROLS\CBS-1100-XV+\Design_20170818\Design\Project Outputs for CBS1100\PCB Fabrication\ODB++ Files\odb\steps\pcb\eda\data
+

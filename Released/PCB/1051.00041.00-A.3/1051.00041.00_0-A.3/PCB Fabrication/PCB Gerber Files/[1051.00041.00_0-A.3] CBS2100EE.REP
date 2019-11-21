@@ -1,0 +1,368 @@
+*************************************************************
+FileName = [1051.00041.00_0-A.3] CBS2100EE.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : [1051.00041.00_0-A.3] CBS2100EE.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Legend
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : [1051.00041.00_0-A.3] CBS2100EE.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Legend
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : [1051.00041.00_0-A.3] CBS2100EE.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : [1051.00041.00_0-A.3] CBS2100EE.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Legend
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : [1051.00041.00_0-A.3] CBS2100EE.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Legend
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : [1051.00041.00_0-A.3] CBS2100EE.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D11
+    D30
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Board Dimension
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM2
+
+    Adding Layer      : Board Dimension
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D95
+*************************************************************
+
+*************************************************************
+Generating : PCB Fabrication Notes
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM6
+
+    Adding Layer      : PCB Fabrication Notes
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D94
+    D95
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Panel Details
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM8
+
+    Adding Layer      : Panel Details
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Panel Guide
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM9
+
+    Adding Layer      : Panel Guide
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Peelable Mask
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM10
+
+    Adding Layer      : Top Peelable Mask
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Peelable Mask
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM11
+
+    Adding Layer      : Bottom Peelable Mask
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Template Scheet
+      File : [1051.00041.00_0-A.3] CBS2100EE.GM32
+
+    Adding Layer      : Template Scheet
+
+    Adding Layer      : Legend
+
+
+Used DCodes :
+    D10
+    D52
+    D94
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : [1051.00041.00_0-A.3] CBS2100EE.GD1
+
+    Adding Layer      : Legend
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D92
+    D94
+    D98
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : [1051.00041.00_0-A.3] CBS2100EE.GG1
+
+    Adding Layer      : Legend
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D94
+*************************************************************
+

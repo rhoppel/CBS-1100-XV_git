@@ -1,0 +1,1 @@
+Rename CBS11xx(V0.xx).FRM to CBS11xx.FRM, to use for the udpate using USB stick
